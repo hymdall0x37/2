@@ -1,4 +1,4 @@
-module github.com/hymdall0x37/goland-otpbot-api
+module github.com/hymdall0x37/2
 
 go 1.17
 
