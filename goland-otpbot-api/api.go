@@ -13,10 +13,10 @@ import (
 
 //# Configuration
 
-var NGROK_URL string = "https://golandbotapi.herokuapp.com"
-var BOT_TOKEN string = ""
-var TWILIO_ACCOUNT_SID string = "your_twilio_account_sid_here"
-var TWILIO_AUTH_TOKEN string = "your_twilio_auth_token_here"
+var NGROK_URL string = "https://peaceful-dawn-04529-49f0a36dde30.herokuapp.com/"
+var BOT_TOKEN string = "6316875845:AAE67Z1DbDj_hnfir1O4E6_erM9mAIYbAog"
+var TWILIO_ACCOUNT_SID string = "ACb6156964d33bf487bef956c05e7cca7a"
+var TWILIO_AUTH_TOKEN string = "bb0300b8dd34baedffd444c7011e912b"
 var OWNER_CHAT_ID int64 = 12345678
 
 type teleinfo struct {
