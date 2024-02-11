@@ -10,7 +10,7 @@ import (
 
 	"github.com/twilio/twilio-go"
 	"github.com/twilio/twilio-go/rest/api/v2010"
-	tb "gopkg.in/tucnak/telebot.v2
+	tb "gopkg.in/tucnak/telebot.v2"
 )
 
 //#Configuration
